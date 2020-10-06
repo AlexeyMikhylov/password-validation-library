@@ -1,0 +1,6 @@
+F:\03-02\PassCheckLib\PassCheckLib\obj\Debug\PassCheckLib.csproj.CoreCompileInputs.cache
+F:\03-02\PassCheckLib\PassCheckLib\bin\Debug\PassCheckLib.dll
+F:\03-02\PassCheckLib\PassCheckLib\bin\Debug\PassCheckLib.pdb
+F:\03-02\PassCheckLib\PassCheckLib\obj\Debug\PassCheckLib.dll
+F:\03-02\PassCheckLib\PassCheckLib\obj\Debug\PassCheckLib.pdb
+F:\03-02\PassCheckLib\PassCheckLib\obj\Debug\PassCheckLib.csprojAssemblyReference.cache

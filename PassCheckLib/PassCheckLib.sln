@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassCheckLib", "PassCheckLib\PassCheckLib.csproj", "{61BFA2CC-C29B-4BBF-9AC9-098FD73A6172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordinputConsoleApp", "..\passwordinputConsoleApp\passwordinputConsoleApp.csproj", "{C8576975-DF42-44E1-92E8-AAE0696881E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppAmbulatorMap", "..\wpfwpf\WpfAppAmbulatorMap\WpfAppAmbulatorMap\WpfAppAmbulatorMap.csproj", "{CC13FBB9-993D-44B4-94B3-4D64A246B4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassCheckLibUnitTest", "PassCheckLibUnitTest\PassCheckLibUnitTest.csproj", "{5863AB95-A87E-4CF3-9493-345758E62D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BFA2CC-C29B-4BBF-9AC9-098FD73A6172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BFA2CC-C29B-4BBF-9AC9-098FD73A6172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BFA2CC-C29B-4BBF-9AC9-098FD73A6172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BFA2CC-C29B-4BBF-9AC9-098FD73A6172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8576975-DF42-44E1-92E8-AAE0696881E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8576975-DF42-44E1-92E8-AAE0696881E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8576975-DF42-44E1-92E8-AAE0696881E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8576975-DF42-44E1-92E8-AAE0696881E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC13FBB9-993D-44B4-94B3-4D64A246B4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC13FBB9-993D-44B4-94B3-4D64A246B4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC13FBB9-993D-44B4-94B3-4D64A246B4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC13FBB9-993D-44B4-94B3-4D64A246B4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5863AB95-A87E-4CF3-9493-345758E62D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5863AB95-A87E-4CF3-9493-345758E62D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5863AB95-A87E-4CF3-9493-345758E62D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5863AB95-A87E-4CF3-9493-345758E62D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698D05D7-5007-43DA-8D79-DD14F8A82839}
+	EndGlobalSection
+EndGlobal
